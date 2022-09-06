@@ -1,5 +1,9 @@
 [
   {
+    "package": "Observation",
+    "oncran": true
+  },
+  {
     "package": "PAutilities",
     "oncran": true
   },
