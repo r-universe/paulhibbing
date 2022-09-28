@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "AGread"]
-	path = AGread
-	url = https://github.com/paulhibbing/agread
-	shallow = true
-	registered = true
 [submodule "Observation"]
 	path = Observation
 	url = https://github.com/paulhibbing/observation

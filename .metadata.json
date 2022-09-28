@@ -1,9 +1,5 @@
 [
   {
-    "package": "AGread",
-    "oncran": true
-  },
-  {
     "package": "Observation",
     "oncran": true
   },
