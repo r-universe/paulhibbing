@@ -1,6 +1,6 @@
 [
   {
-    "package": "Sojourn",
+    "package": "Observation",
     "oncran": true
   },
   {
@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "Observation",
+    "package": "Sojourn",
     "oncran": true
   },
   {

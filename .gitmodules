@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "Sojourn"]
-	path = Sojourn
-	url = https://github.com/paulhibbing/sojourn
+[submodule "Observation"]
+	path = Observation
+	url = https://github.com/paulhibbing/observation
 	shallow = true
 	registered = true
 [submodule "PAutilities"]
@@ -13,9 +13,9 @@
 	url = https://github.com/paulhibbing/pautilities
 	shallow = true
 	registered = true
-[submodule "Observation"]
-	path = Observation
-	url = https://github.com/paulhibbing/observation
+[submodule "Sojourn"]
+	path = Sojourn
+	url = https://github.com/paulhibbing/sojourn
 	shallow = true
 	registered = true
 [submodule "TwoRegression"]
