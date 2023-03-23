@@ -18,6 +18,11 @@
 	url = https://github.com/paulhibbing/sojourn
 	shallow = true
 	registered = true
+[submodule "Sojourn.Data"]
+	path = Sojourn.Data
+	url = https://github.com/cran/Sojourn.Data
+	shallow = true
+	registered = true
 [submodule "TwoRegression"]
 	path = TwoRegression
 	url = https://github.com/paulhibbing/tworegression
