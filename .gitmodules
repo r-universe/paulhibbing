@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "EE.Data"]
+	path = EE.Data
+	url = https://github.com/paulhibbing/ee.data
 [submodule "Observation"]
 	path = Observation
 	url = https://github.com/paulhibbing/observation
