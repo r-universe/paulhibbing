@@ -1,0 +1,9 @@
+[
+  {
+    "package": "EE.Data",
+    "url": "https://github.com/paulhibbing/EE.Data",
+    "via": ["accelEE"],
+    "branch": "nnet-fix",
+    "from": "accelEE"
+  }
+]
