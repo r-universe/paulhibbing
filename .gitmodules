@@ -20,3 +20,6 @@
 [submodule "TwoRegression"]
 	path = TwoRegression
 	url = https://github.com/paulhibbing/tworegression
+[submodule "accelEE"]
+	path = accelEE
+	url = https://github.com/paulhibbing/accelee
